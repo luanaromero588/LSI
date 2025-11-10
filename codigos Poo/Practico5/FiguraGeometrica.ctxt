@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FiguraGeometrica
+comment0.text=\r\n\ SuperClase\ FiguraGeometrica\ que\ modela\ estructura\ y\ comportamiento\ a\ sus\ subclases\ figuras.\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 10-10-2025\r\n
+comment1.params=p_origen
+comment1.target=FiguraGeometrica(Punto)
+comment2.params=p_origen
+comment2.target=void\ setOrigen(Punto)
+comment3.params=
+comment3.target=Punto\ getOrigen()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment4.text=\r\n\ Metodos\ Abstractos\r\n
+comment5.params=
+comment5.target=double\ superficie()
+comment6.params=
+comment6.target=void\ mostrarSuperficie()
+numComments=7

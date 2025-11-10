@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SemiExclusivo
+comment0.text=\r\n\ Subclase\ SemiExclusivo\ que\ extiende\ de\ la\ Superclase\ Cargo.\r\n\ Un\ cargo\ puede\ ser\ semiexclusivo\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 06/10/2025\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDeDocencia\ p_horas
+comment1.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_nombreCargo\r\n@param\ double\ p_importe\r\n@param\ int\ p_anio\r\n@param\ int\ p_horasDocencia\r\n@param\ int\ p_horasInvestigacion\r\n
+comment2.params=p_horas
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment3.params=
+comment3.target=int\ getHorasDeInvestigacion()
+comment4.params=
+comment4.target=void\ mostrarCargo()
+comment4.text=\r\n\ Metodo\ Publico,muestra\ por\ pantalla\ los\ datos\ del\ cargo\r\n
+numComments=5

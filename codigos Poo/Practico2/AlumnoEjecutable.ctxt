@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AlumnoEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ probar\ la\ clase\ Alumno.\ \r\n\ Crea\ un\ objeto\ alumno,\ se\ cargan\ datos\ b\u00E1sicos\ del\ alumno\ (LU,\ nombre,\ apellido\ y\ dos\ notas)\r\n\ se\ muestran\ sus\ datos,\ se\ utilizan\ setters\ para\ modificar\ las\ notas\ y\ se\ muestra\ nuevamente\ los\ datos\ del\ alumno,\ esta\ vez\ actualizado.\r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @author\ Ortellado\ Luciana\r\n\ @version\ 1.0\ 20-08-2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

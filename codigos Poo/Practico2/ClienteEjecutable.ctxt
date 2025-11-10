@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ClienteEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ prueba\ la\ clase\ Cliente.\ Crea\ un\ objeto\ Cliente\ a\ partir\ de\ argumentos\ recibidos,muestra\ sus\ datos,\r\n\ actualiza\ el\ saldo\ mediante\ dep\u00F3sito\ y\ reemplaza\ el\ saldo\ con\ un\ nuevo\ valor.\r\n\ \r\n\ @author\ Luana\ \r\n\ @author\ Ortellado\ Luciana\r\n\ @version\ 1.0-\ 2025-08-19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Metodo\ main\ que\ instancia\ un\ objeto\ cliente\ y\ prueba\ sus\ metodos\r\n\ @param\ args\ Arreglo\ de\ Strings\ con\ los\ datos\ del\ cliente\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ args[0]\ ->\ DNI\ (int)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ args[1]\ ->\ Apellido\ (String)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ args[2]\ ->\ Nombre\ (String)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ args[3]\ ->\ Saldo\ inicial\ (double)\r\n
+numComments=2

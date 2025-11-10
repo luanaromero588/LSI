@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Individuo
+comment1.params=p_persona\ p_fechaVisita
+comment1.target=Individuo(Persona,\ java.util.Calendar)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ Persona\ p_persona\r\n@param\ String\ p_nombre\ \r\n@param\ Calendar\ p_fechaVisita\r\n
+comment2.params=p_persona
+comment2.target=void\ setPersona(Persona)
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=
+comment4.target=java.lang.String\ tipoVisitante()
+comment4.text=\r\n\ Devuelve\ una\ cadena\ que\ indica\ que\ tipo\ de\ visitante\ es\r\n\ @return\ devuelve\ un\ String\r\n
+comment5.params=p_fecha\ p_visitante
+comment5.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment5.text=\r\n\ Lista\ por\ fecha\ los\ visitantes\r\n
+comment6.params=
+comment6.target=void\ mostrar()
+comment6.text=\r\n\ Muestra\ por\ pantalla\ los\ datos\ de\ la\ persona\r\n
+comment7.params=
+comment7.target=double\ entrada()
+comment7.text=\r\nDevuelve\ el\ valor\ de\ la\ entrada\r\n@return\ devuelve\ un\ double\r\n
+comment8.params=
+comment8.target=java.util.HashSet\ listarPersonas()
+comment8.text=\r\n\ Lista\ al\ individuo.\r\n\ @return\ un\ conjunto\ de\ Personas\ compuesto\ por\ el\ individuo\r\n
+numComments=9

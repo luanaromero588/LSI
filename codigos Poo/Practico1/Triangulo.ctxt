@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\r\n\ Crear\ clase\ ejecutable\ \u201CTriangulo\u201D,\ declarar\ las\ variables\ a,\ b\ y\ c\ de\ \r\n\ tipo\ double,\ que\ corresponden\ a\ los\ lados\r\nde\ un\ tri\u00E1ngulo.\ Los\ valores\ deben\ ser\ ingresados\ por\ teclado\ como\ argumentos\r\n\ del\ m\u00E9todo\ main().\ Calcular\ y\r\nmostrar\ el\ semiper\u00EDmetro\ y\ el\ \u00E1rea\ del\ tri\u00E1ngulo.\r\n\ semiperimetro\=\ (a+b+c)/2\r\n\ area\=\ ra\u00EDz\ cuadrada(semiperimetro*(semiperimetro-a)\r\n(semiperimetro-b)*(semiperimetro-c))\r\nNota\:\ probar\ con\ a\=2,\ b\=2.7,\ c\=3.5\r\n\ \r\n\ @autor\ Romero\ Ingrid\ Luana\ \r\n\ @Ortellado\ Luciana\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

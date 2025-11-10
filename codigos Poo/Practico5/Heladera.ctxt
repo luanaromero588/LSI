@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Heladera
+comment0.text=\r\n\ Clase\ que\ modela\ una\ heladera\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 11/10/2025\r\n
+comment1.params=p_pies\ p_puertas\ p_compresor\ p_marca\ p_precio\ p_stock
+comment1.target=Heladera(int,\ int,\ boolean,\ java.lang.String,\ float,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_marca\r\n@param\ float\ p_precio\r\n@param\ int\ p_stock\r\n@param\ int\ p_pies\r\n@param\ int\ p_puertas\r\n@param\ boolean\ p_compresor\r\n
+comment2.params=
+comment2.target=int\ getPies()
+comment3.params=p_pies
+comment3.target=void\ setPies(int)
+comment4.params=
+comment4.target=int\ getPuertas()
+comment5.params=p_puertas
+comment5.target=void\ setPuertas(int)
+comment6.params=
+comment6.target=boolean\ getCompresor()
+comment7.params=p_compresor
+comment7.target=void\ setCompresor(boolean)
+comment8.params=
+comment8.target=void\ imprimir()
+comment8.text=\r\nMuestra\ por\ pantalla\ los\ datos\ de\ la\ Heladera\r\n
+comment9.params=p_cuotas\ p_interes
+comment9.target=float\ creditoConAdicional(int,\ float)
+numComments=10

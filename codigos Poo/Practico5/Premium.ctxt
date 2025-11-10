@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Premium
+comment0.text=\r\n\ Clase\ que\ modela\ una\ etiqueta\ de\ tipo\ premium\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 17/10/2025\r\n
+comment1.params=p_costo\ p_colores
+comment1.target=Premium(double,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ double\ p_costo\r\n@param\ int\ p_colores\r\n
+comment2.params=p_colores
+comment2.target=void\ setColores(int)
+comment3.params=
+comment3.target=double\ getColores()
+comment4.params=q
+comment4.target=double\ precio(int)
+comment4.text=\r\n\ Metodo\ privado,\ calcula\ el\ precio\ de\ la\ etiqueta\r\n\ @return\ devuelve\ un\ double\r\n
+comment5.params=
+comment5.target=double\ plus()
+comment5.text=\r\n\ Metodo\ privado,\ calcula\ el\ adicional\ del\ precio\r\n\ @return\ devuelve\ un\ double\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Metodo\ publico,\ devuelve\ una\ cadena\ con\ los\ datos\ de\ la\ etiqueta\r\n\ @return\ devuelve\ un\ String\r\n
+comment7.params=
+comment7.target=java.lang.String\ tipo()
+comment7.text=\r\n\ Metodo\ publico,\ devuelve\ una\ cadena\ con\ el\ tipo\ de\ la\ etiqueta\r\n\ @return\ devuelve\ un\ String\r\n
+numComments=8

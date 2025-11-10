@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EmpleadoEjecutable
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ aplicaci\u00F3n.\r\n\ Solicita\ datos\ del\ usuario\ para\ crear\ un\ objeto\ Empleado,\ muestra\ su\ informaci\u00F3n\ inicial,\r\n\ permite\ modificar\ atributos\ mediante\ setters\ y\ muestra\ los\ valores\ actualizados.\r\n
+numComments=2

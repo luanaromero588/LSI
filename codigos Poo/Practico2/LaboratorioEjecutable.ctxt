@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LaboratorioEjecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ probar\ la\ clase\ Laboratorio.\r\n\ Crea\ objetos\ con\ sus\ datos,\ mostrando\ c\u00F3mo\ funcionan\ los\ constructores,\ los\ setters,\ getters\ y\r\n\ el\ m\u00E9todo\ mostrar().\r\n\ \r\n\ En\ este\ ejecutable\ se\ crean\ dos\ laboratorios\:\ uno\ con\ todos\ los\ datos\ desde\ el\ inicio\ y\ otro\ con\ datos\ b\u00E1sicos,\ al\ cual\ luego\ se\ le\ agregan\r\n\ la\ compra\ m\u00EDnima\ y\ el\ d\u00EDa\ de\ entrega.\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @author\ Ortellado\ Luciana\r\n\ @version\ 1.0\ 20/08/2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ecuaciones
+comment0.text=\r\n\ Crear\ una\ clase\ denominada\ \u201CEcuaci\u00F3n\u201D\ que\ calcule\ las\ ra\u00EDces\ reales\ \r\n\ de\ una\ ecuaci\u00F3n\ de\ segundo\ grado.\ Los\r\nvalores\ de\ los\ coeficientes\ a,\ b\ y\ c\ se\ ingresar\u00E1n\ por\ teclado\ como\ \r\nargumentos\ del\ m\u00E9todo\ main().\ Considerar\r\nque\ si\ el\ discriminante\ >\ 0\ se\ deben\ calcular\ las\ 2\ ra\u00EDces,\ \r\nsi\ el\ discriminante\ \=\ 0\ se\ debe\ calcular\ una\ sola\ ra\u00EDz,\r\nespecificando\ por\ pantalla\ que\ x1\ \=\ x2.\ En\ caso\ de\ ser\ negativo,\r\n\ mostrar\ un\ mensaje\ indicando\ que\ se\r\nencuentra\ frente\ a\ una\ soluci\u00F3n\ compleja\ (numero\ imaginario).\r\nNota\:\ probar\ con\ a\=\ -1;\ b\=500;\ c\=-62500;\r\n\ \r\n\ @autor\ Romero\ Ingrid\ Luana\ \r\n\ @Ortellado\ Luciana\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

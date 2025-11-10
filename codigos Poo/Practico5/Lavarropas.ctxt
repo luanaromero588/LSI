@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lavarropas
+comment0.text=\r\n\ Clase\ que\ modela\ una\ Lavarropas\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 11/10/2025\r\n
+comment1.params=p_programas\ p_kilos\ p_automatico\ p_marca\ p_precio\ p_stock
+comment1.target=Lavarropas(int,\ float,\ boolean,\ java.lang.String,\ float,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_marca\r\n@param\ float\ p_precio\r\n@param\ int\ p_automatico\r\n@param\ int\ p_programas\r\n@param\ float\ p_kilos\r\n@param\ boolean\ p_automatico\r\n
+comment2.params=
+comment2.target=int\ getProgramas()
+comment3.params=p_programas
+comment3.target=void\ setProgramas(int)
+comment4.params=
+comment4.target=float\ getKilos()
+comment5.params=p_kilos
+comment5.target=void\ setKilos(float)
+comment6.params=
+comment6.target=boolean\ getAutomatico()
+comment7.params=p_automatico
+comment7.target=void\ setAutomatico(boolean)
+comment8.params=
+comment8.target=void\ imprimir()
+comment8.text=\r\nMuestra\ por\ pantalla\ los\ datos\ de\ la\ Lavarropas\r\n
+comment9.params=p_cuotas\ p_interes
+comment9.target=float\ creditoConAdicional(int,\ float)
+numComments=10

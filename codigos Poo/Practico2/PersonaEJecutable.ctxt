@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PersonaEJecutable
+comment0.text=\r\n\ Clase\ ejecutable\ que\ permite\ probar\ la\ clase\ Persona.\r\n\r\n\ Crea\ varios\ objetos\ Persona\ con\ datos\ estaticos,\ muestra\ informaci\u00F3n\ completa\ de\ algunos\ de\ ellos,\ y\ permite\ acceder\r\n\ a\ atributos\ espec\u00EDficos\ como\ nombre,\ apellido,\ DNI\ y\ edad.\r\n\ \r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\ \r\n\ @author\ Ortellado\ Luciana\r\n\ @version\ 1.0\ -\ 2025-08-20\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ principal\ que\ ejecuta\ la\ aplicaci\u00F3n.\r\n\ \r\n\ Crea\ tres\ objetos\ Persona\ con\ datos\ predeterminados,\ muestra\ los\ datos\ completos\ de\ uno,\ el\ nombre\ y\ apellido\ de\ otro,\r\n\ y\ el\ DNI\ y\ edad\ de\ un\ tercero.\r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Etiqueta
+comment0.text=\r\n\ Clase\ que\ modela\ etiquetas\ para\ packaging.\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 17/10/2025\r\n
+comment1.params=p_costo
+comment1.target=Etiqueta(double)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ double\ p_costo\r\n
+comment2.params=p_costo
+comment2.target=void\ setCosto(double)
+comment3.params=
+comment3.target=double\ getCosto()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Metodo\ publico,devuelve\ una\ cadena\ con\ los\ datos\ de\ la\ etiqueta\r\n\ @return\ devuelve\ un\ String\r\n
+comment5.params=q
+comment5.target=double\ precio(int)
+comment5.text=\r\n\ Metodos\ Abstractos\r\n
+comment6.params=
+comment6.target=java.lang.String\ tipo()
+numComments=7

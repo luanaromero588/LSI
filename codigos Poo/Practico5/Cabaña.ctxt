@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Caba\u00F1a
+comment1.params=p_nroHabitaciones\ p_nombre\ p_precioBase\ p_diasAlquiler
+comment1.target=Caba\u00F1a(int,\ java.lang.String,\ double,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_nombre\r\n@param\ double\ p_precioBase\r\n@param\ int\ p_diasAlquiler\r\n@param\ int\ p_nroHabitaciones\r\n
+comment2.params=p_nroHabitaciones\ p_nombre\ p_precioBase\ p_diasAlquiler\ p_listaServicios
+comment2.target=Caba\u00F1a(int,\ java.lang.String,\ double,\ int,\ java.util.ArrayList)
+comment2.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_nombre\r\n@param\ double\ p_precioBase\r\n@param\ int\ p_diasAlquiler\r\n@param\ ArrayList<Cargo>\ p_servicos\r\n@param\ int\ p_nroHabitaciones\r\n
+comment3.params=p_nroHabitaciones
+comment3.target=void\ setNroHabitaciones(int)
+comment4.params=
+comment4.target=int\ getNroHabitaciones()
+comment5.params=
+comment5.target=double\ costo()
+comment5.text=\r\n\ Metodo\ publico,calcula\ el\ costo\ del\ alquiler(costo\ del\ dia\ +\ costo\ por\ la\ cant\ de\ habitaciones)\r\n
+comment6.params=p_alojamiento
+comment6.target=int\ contar(java.lang.String)
+comment6.text=\r\n\ Metodo\ publico,cuenta\ la\ cantidad\ de\ caba\u00F1as\r\n
+comment7.params=
+comment7.target=void\ liquidar()
+comment7.text=\r\n\ Metodo\ publico,\ muestra\ por\ pantalla\ los\ datos\ del\ alquiler\r\n
+numComments=8

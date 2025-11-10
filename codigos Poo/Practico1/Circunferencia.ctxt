@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Circunferencia
+comment0.text=\r\n\ Crear\ una\ clase\ ejecutable\ denominada\ \u201CCircunferencia\u201D,\ en\ la\ que\ se\ calcule\ \r\n\ el\ per\u00EDmetro\ de\ una\ circunferencia,\ ingresando\ el\ radio\ de\ tipo\ entero\r\n\ a\ trav\u00E9s\ del\ argumento\ del\ main()\r\n\ \r\n\ Modificar\ la\ clase\ Circunferencia\ para\ permitir\ que\ el\ usuario\ pueda\ calcular\ el\ per\u00EDmetro\ de\ muchas\r\ncircunferencias,\ utilizando\ la\ estructura\ while.\ Modificar\ adem\u00E1s\ el\ ingreso\ de\ datos,\ utilizando\ la\ clase\r\nScanner.\r\n\ \r\n\ @autor\ Romero\ Ingrid\ Luana\ \r\n\ @Ortellado\ Luciana\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

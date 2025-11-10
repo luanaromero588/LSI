@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\r\n\ Sublcase\ triangulo\ extiende\ de\ FiguraGeometrica\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 10-10-2025\r\n
+comment1.params=p_base\ p_altura\ p_origen
+comment1.target=Triangulo(double,\ double,\ Punto)
+comment2.params=p_base
+comment2.target=void\ setBase(double)
+comment3.params=p_altura
+comment3.target=void\ setAltura(double)
+comment4.params=
+comment4.target=double\ getBase()
+comment5.params=
+comment5.target=double\ getAltura()
+comment6.params=
+comment6.target=java.lang.String\ nombreFigura()
+comment6.text=\r\nDevuelve\ la\ palabra\ "Triangulo"\r\n@return\ devuelve\ un\ String\r\n
+comment7.params=
+comment7.target=double\ superficie()
+comment7.text=\r\nCalcula\ la\ superficie\ del\ triangulo\r\n@return\ devuelve\ un\ double\r\n
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Empresa2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ingreso\ jefe
+comment2.target=EmpleadoConJefe\ crearEmpleadoConJefe(java.util.Scanner,\ EmpleadoConJefe)
+comment3.params=p_empleado
+comment3.target=void\ permisoSalida(EmpleadoConJefe)
+numComments=4

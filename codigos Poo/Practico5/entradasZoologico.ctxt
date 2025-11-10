@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=entradasZoologico
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=ingreso
+comment2.target=Delegacion\ crearDelegacion(java.util.Scanner)
+comment3.params=ingreso
+comment3.target=Individuo\ crearIndividuo(java.util.Scanner)
+numComments=4

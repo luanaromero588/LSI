@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Comercio
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p_artefactos
+comment2.target=void\ crearArtefactos(java.util.ArrayList)
+comment3.params=p_artefacto\ p_ingreso
+comment3.target=void\ consultarCredito(ArtefactoHogar,\ java.util.Scanner)
+numComments=4

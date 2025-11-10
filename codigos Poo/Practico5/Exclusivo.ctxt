@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ Subclase\ Exclusivo\ que\ extiende\ de\ la\ superclase\ Cargo.\r\n\ Un\ cargo\ puede\ ser\ Exclusivo.\r\n\ \r\n\ @author\ Romero\ Ingrid\ Luana\r\n\ @version\ 1.\ 06/10/2025\r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDeDocencia\ p_horasDeInvestigacion\ p_horasDeExtension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\nConstructor\ con\ parametros,\ instancia\ un\ objeto\ de\ la\ clase\r\n@param\ String\ p_nombreCargo\r\n@param\ double\ p_importe\r\n@param\ int\ p_anio\r\n@param\ int\ p_horasDocencia\r\n@param\ int\ p_horasInvestigacion\r\n@param\ int\ p_horasExtension\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment3.params=p_horasDeExtension
+comment3.target=void\ setHorasDeExtension(int)
+comment4.params=
+comment4.target=int\ getHorasDeInvestigacion()
+comment4.text=\r\nPermite\ obtener\ el\ valor\ de\ el\ atributo\ horasDeInvestigacion\r\n@return\ devuelve\ un\ int\r\n
+comment5.params=
+comment5.target=int\ getHorasDeExtension()
+comment5.text=\r\nPermite\ obtener\ el\ valor\ de\ el\ atributo\ horasDeExtension\r\n@return\ devuelve\ un\ int\r\n
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ Muestra\ por\ pantalla\ los\ datos\ del\ cargo\ Exclusivo\r\n
+numComments=7
