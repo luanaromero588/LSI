@@ -13,10 +13,10 @@ public class Comprobante
     private double total;
     private Viajero viajero;
     
-    public Comprobante(Calendar p_fecha, String p_turno, double p_total, Viajero p_viajero){
-        this.setFecha(p_fecha);
+    public Comprobante( String p_turno, Viajero p_viajero){
         this.setTurno(p_turno);
         this.setViajero(p_viajero);
+        this.setFecha(Calendar.getInstance());
         this.setTotal(this.calcularTotal());
     }
     
@@ -57,7 +57,7 @@ public class Comprobante
         System.out.println("--------------------------");
         System.out.println("Fecha: " +this.getFecha().get(Calendar.DATE) +"/" +(this.getFecha().get(Calendar.MONTH) + 1) //la suma en parentesis externo
                             +"/" +this.getFecha().get(Calendar.YEAR));
-        System.out.println("Categoria: " +this.getViajero().getCategoria().descripcion());
+        System.out.println(this.getViajero().getCategoria().descripcion());
         System.out.println("Documento: " +this.getViajero().getDocumento() +" -Turno: " +this.getTurno());
         System.out.println("Total: " +this.getTotal());
         System.out.println("--------------------------");

@@ -12,7 +12,7 @@ public class NoLimitrofe extends CategoriaViajero
     }
     
     public  double multiplicadorCategoria(){
-        return 0.60;
+        return 1.60;
     }
     public  String tipoCategoria(){
         return "No limitrofe";

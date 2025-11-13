@@ -43,7 +43,7 @@ public class Viajero
     public double calcularTarifa(String p_turno){
         double total = this.getTarifaBase() * this.getCategoria().multiplicadorCategoria();
         if(p_turno.equalsIgnoreCase("Nocturno")){
-            return total = total + (total * 0.20); 
+            return total *= 1.20; //es un multiplicador no retorna % 
         }
         return total;
     }

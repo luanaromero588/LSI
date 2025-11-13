@@ -14,7 +14,7 @@ public class Caja1
     private OficialMigraciones oficial;
     
     //(1...*)
-    public Caja1(int p_nroDeCaja,Viajero p_viajero, String p_turno, OficialMigraciones p_oficial){
+    public Caja1(int p_nroDeCaja, Viajero p_viajero, String p_turno, OficialMigraciones p_oficial){
         this.setNroDeCaja(p_nroDeCaja);
         this.setComprobantes(new ArrayList<Comprobante> ());
         this.registrarComprobante(p_viajero, p_turno);
@@ -45,7 +45,7 @@ public class Caja1
    
     public void agregarComprobante(Comprobante p_comprobante){
             this.getComprobantes().add(p_comprobante);
-        }
+    }
     
     public boolean quitarComprobante(Comprobante p_comprobante){
         if(this.getComprobantes().size() > 1){

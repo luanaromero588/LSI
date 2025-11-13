@@ -12,7 +12,7 @@ public class Nacional extends CategoriaViajero
     }
     
     public  double multiplicadorCategoria(){
-        return 1;
+        return 1.0;
         //return p_costoBase; 
     }
     public  String tipoCategoria(){
