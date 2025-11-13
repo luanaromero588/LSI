@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Peaje
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Peaje\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombrePeaje\ p_caja
+comment1.target=Peaje(java.lang.String,\ Caja)
+comment2.params=p_nombrePeaje
+comment2.target=void\ setNombrePeaje(java.lang.String)
+comment3.params=p_cajas
+comment3.target=void\ setCajas(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getNombrePeaje()
+comment5.params=
+comment5.target=java.util.ArrayList\ getCajas()
+comment6.params=p_caja
+comment6.target=boolean\ agregarCaja(Caja)
+comment7.params=p_caja
+comment7.target=boolean\ quitarCaja(Caja)
+comment8.params=
+comment8.target=double\ totalRecaudado()
+numComments=9

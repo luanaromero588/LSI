@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CategoriaViajero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CategoriaViajero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_costoBase
+comment1.target=CategoriaViajero(double)
+comment2.params=p_costoBase
+comment2.target=void\ setCostoBase(double)
+comment3.params=
+comment3.target=double\ getCostoBase()
+comment4.params=
+comment4.target=double\ multiplicadorCategoria()
+comment5.params=
+comment5.target=java.lang.String\ tipoCategoria()
+comment6.params=
+comment6.target=java.lang.String\ descripcion()
+numComments=7

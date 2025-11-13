@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Categoria
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Categoria\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_costo
+comment1.target=Categoria(double)
+comment2.params=p_costo
+comment2.target=void\ setCosto(double)
+comment3.params=
+comment3.target=double\ getCosto()
+comment4.params=
+comment4.target=java.lang.String\ tipoCategoria()
+comment5.params=
+comment5.target=double\ costoTotal()
+comment6.params=
+comment6.target=java.lang.String\ leyendaCategoria()
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Postre
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Postre\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_PU\ p_descripcion\ p_enCaja
+comment1.target=Postre(double,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ getEnCaja()
+comment3.params=enCaja
+comment3.target=void\ setEnCaja(boolean)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=p_cantidad
+comment5.target=double\ precio(int)
+numComments=6

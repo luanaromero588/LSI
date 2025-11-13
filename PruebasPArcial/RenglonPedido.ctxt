@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RenglonPedido
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RenglonPedido\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_cantidad\ p_item
+comment1.target=RenglonPedido(int,\ Congelado)
+comment2.params=
+comment2.target=int\ getCantidad()
+comment3.params=cantidad
+comment3.target=void\ setCantidad(int)
+comment4.params=
+comment4.target=Congelado\ getItem()
+comment5.params=item
+comment5.target=void\ setItem(Congelado)
+comment6.params=
+comment6.target=double\ importe()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

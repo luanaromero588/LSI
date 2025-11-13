@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PedidoEtiqueta
+comment1.params=p_renglones
+comment1.target=PedidoEtiqueta(java.util.ArrayList)
+comment2.params=p_renglon
+comment2.target=PedidoEtiqueta(Renglon)
+comment3.params=p_renglones
+comment3.target=void\ setRenglones(java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getRenglones()
+comment5.params=p_renglon
+comment5.target=boolean\ agregarRenglon(Renglon)
+comment6.params=p_renglon
+comment6.target=boolean\ quitarRenglon(Renglon)
+comment7.params=
+comment7.target=int\ cantRenglones()
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

@@ -47,7 +47,12 @@ public class Delegacion extends Visitante{
      * @param p_individuo El individuo a agregar.
      */
     public void inscribirIndividuo(Individuo p_individuo){
-        this.getIntegrantes().add(p_individuo);
+        if(this.getIntegrantes().contains(p_individuo)){
+            System.out.println("Ya ingreso este individuo");
+        }else{
+            this.getIntegrantes().add(p_individuo);
+            System.out.println("Individuo agregado con exito");
+        }
     }
      /**
      * Elimina un individuo de la delegación.
@@ -73,7 +78,7 @@ public class Delegacion extends Visitante{
     public void mostrar(){
         System.out.println("-------------------------------------------");
         System.out.println("Integrantes");
-        System.out.println("Delegacion " +super.getNombre());
+        System.out.println("Delegacion " +this.getNombre());
         for(Individuo unIndividuo: this.getIntegrantes()){
            unIndividuo.mostrar();
         }
@@ -92,7 +97,7 @@ public class Delegacion extends Visitante{
     * Metodo publico, lista por fecha los datos de la delegacion
     */
     public  void listarPorFecha(Calendar p_fecha, String p_visitante){
-        if(super.getFechaVisita().equals(p_fecha)  && this.tipoVisitante().equalsIgnoreCase(p_visitante)){
+        if(this.getFechaVisita().equals(p_fecha)  && this.tipoVisitante().equalsIgnoreCase(p_visitante)){
             this.mostrar();
         }
     }

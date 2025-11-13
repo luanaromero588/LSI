@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=OficialMigraciones
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OficialMigraciones\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_usuario\ p_nombre
+comment1.target=OficialMigraciones(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getUsuario()
+comment3.params=p_usuario
+comment3.target=void\ setUsuario(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=p_nombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
